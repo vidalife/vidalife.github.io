@@ -2,12 +2,13 @@ styles.css
 
 
 body{
-		background-image: url("images/chakra.jpg");
+		background-image: <img src="images/chakra.jpg");
 
 		color: #03FF1F;
 
 		font-size: 22px;
 	}
+		
 		ul{
 			list-style-type: none;
 	
@@ -34,3 +35,5 @@ body{
 		address{ 
 			text-align: right; 
 		}
+
+	

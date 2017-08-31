@@ -2,7 +2,8 @@ styles.css
 
 
 body{
-		background-image: url("images/chakra.jpg");
+		background:
+			 url("images/chakra.jpg");
 
 		color: #03FF1F;
 

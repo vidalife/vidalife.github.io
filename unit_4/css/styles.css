@@ -2,7 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body{
-	
+	background-image:
+	url("../images/betterchakra.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	text-align: left;
 	font-family: 'Oxygen';
 	color: #ffffff;
@@ -34,39 +37,6 @@ address {
 	text-align: right; 
 	font-style: normal;
 }
-
-header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-nav{
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-aside{
-	background-color: #FFC765;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article{
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer{
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-div/section{
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
+.slogan {
+	text-align: center;
+	}
